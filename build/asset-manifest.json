@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahulvarma5297/Keeper-App.git/static/css/main.ba68bc0c.css",
+    "main.js": "/rahulvarma5297/Keeper-App.git/static/js/main.3a87a92b.js",
+    "index.html": "/rahulvarma5297/Keeper-App.git/index.html",
+    "main.ba68bc0c.css.map": "/rahulvarma5297/Keeper-App.git/static/css/main.ba68bc0c.css.map",
+    "main.3a87a92b.js.map": "/rahulvarma5297/Keeper-App.git/static/js/main.3a87a92b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba68bc0c.css",
+    "static/js/main.3a87a92b.js"
+  ]
+}
